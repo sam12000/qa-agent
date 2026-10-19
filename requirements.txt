@@ -1,0 +1,9 @@
+ollama
+playwright
+pytest
+pytest-playwright
+axe-playwright-python
+fastapi
+uvicorn
+jinja2
+Appium-Python-Client
